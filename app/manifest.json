@@ -1,6 +1,6 @@
 {
     "name": "Bogus X-UIDH",
-    "version": "0.0.5",
+    "version": "0.0.10",
     "manifest_version": 2,
     "description": "Inject bogus data into the X-UIDH header for insecure HTTP requests",
     "permissions": [

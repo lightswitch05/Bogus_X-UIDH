@@ -281,7 +281,7 @@ module.exports = function (grunt) {
         options: {
           archive: function() {
             var manifest = grunt.file.readJSON('app/manifest.json');
-            return 'package/Bogus X-UIDH-' + manifest.version + '.zip';
+            return 'package/Bogus_X-UIDH-' + manifest.version + '.zip';
           }
         },
         files: [{
