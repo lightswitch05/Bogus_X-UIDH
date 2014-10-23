@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Bogus X-UIDH",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Inject bogus X-UIDH information into insecure http requests",
+    "description": "The description of the application"
+  }
+}

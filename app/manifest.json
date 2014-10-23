@@ -1,0 +1,22 @@
+{
+    "name": "Bogus X-UIDH",
+    "version": "0.0.5",
+    "manifest_version": 2,
+    "description": "Inject bogus data into the X-UIDH header for insecure HTTP requests",
+    "permissions": [
+        "http://*/*",
+        "webRequest",
+        "webRequestBlocking"
+    ],
+    "icons": {
+        "16": "images/icon-16.png",
+        "128": "images/icon-128.png"
+    },
+    "default_locale": "en",
+    "background": {
+        "scripts": [
+            "scripts/chromereload.js",
+            "scripts/background.js"
+        ]
+    }
+}
