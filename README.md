@@ -1,5 +1,10 @@
+UPDATE: Verizon overwrites the `X-UIDH` if it is already set, so this is not a valid solution ![trying to set uidh](https://pbs.twimg.com/media/B0pgYpgIYAALAeI.png:large)
+=======
+
+
+
 Bogus X-UIDH
-============
+-----------
 
 About
 -----
